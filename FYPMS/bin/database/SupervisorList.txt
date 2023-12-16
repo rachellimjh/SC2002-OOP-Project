@@ -1,0 +1,75 @@
+ASMADHUKUMAR|A S Madhukumar|ASMADHUKUMAR@NTU.EDU.SG|0|
+ASSOURIN|Alexei Sourin|ASSOURIN@ntu.edu.sg|0|
+ANUPAM|Anupam Chattopadhyay|ANUPAM@NTU.EDU.SG|0|
+ANWITAMAN|Anwitaman Datta|ANWITAMAN@NTU.EDU.SG|0|
+ARVINDE|Arvind Easwaran|ARVINDE@NTU.EDU.SG|0|
+BOAN|Bo An|BOAN@NTU.EDU.SG|0|
+ASWTCAI|Cai Wentong|ASWTCAI@ntu.edu.sg|0|
+ASTJCHAM|Cham Tat Jen|ASTJCHAM@NTU.EDU.SG|0|
+ASSCHAN|Chan Syin|ASSCHAN@NTU.EDU.SG|0|
+CCLOY|Chen Change Loy|CCLOY@NTU.EDU.SG|0|
+ASLTCHIA|Chia Liang Tien|ASLTCHIA@ntu.edu.sg|0|
+ASESCHNG|Chng Eng Siong|ASESCHNG@NTU.EDU.SG|0|
+GAOCONG|Cong Gao|GAOCONG@NTU.EDU.SG|0|
+ASDRAJAN|Deepu Rajan|ASDRAJAN@NTU.EDU.SG|0|
+ASDOUGLAS|Douglas Leslie Maskell|ASDOUGLAS@NTU.EDU.SG|0|
+DNIYATO|Dusit Niyato|DNIYATO@NTU.EDU.SG|0|
+CAMBRIA|Erik Cambria|CAMBRIA@NTU.EDU.SG|0|
+XYFAN|Fan Xiuyi|xyfan@ntu.edu.sg|0|
+ASWBGOH|Goh Wooi Boon|ASWBGOH@ntu.edu.sg|0|
+CTGUAN|Guan Cuntai|CTGUAN@NTU.EDU.SG|0|
+YHE|sHe Ying|YHE@NTU.EDU.SG|0|
+ASSYHUANG|Huang Shell Ying|ASSYHUANG@ntu.edu.sg|0|
+ASSCHUI|Hui Siu Cheung|ASSCHUI@ntu.edu.sg|0|
+SRJOTY|Joty Shafiq Rayhan|SRJOTY@NTU.EDU.SG|0|
+YPKE|Ke Yiping, Kelly|YPKE@NTU.EDU.SG|0|
+ADAMSKONG|Kong Wai-Kin Adams|ADAMSKONG@NTU.EDU.SG|0|
+ASCKKWOH|Kwoh Chee Keong|ASCKKWOH@ntu.edu.sg|0|
+ASSKLAM|Lam Siew Kei|ASSKLAM@NTU.EDU.SG|0|
+ASCTLAU|Lau Chiew Tong|ASCTLAU@NTU.EDU.SG|0|
+EBSLEE|Lee Bu Sung|EBSLEE@ntu.edu.sg|0|
+BOYANGLI|Li Boyang|boyang.li@ntu.edu.sg|0|
+ASFLI|Li Fang|ASFLI@NTU.EDU.SG|0|
+LIMO|Li Mo|LIMO@NTU.EDU.SG|0|
+YILI|Li Yi|YI_LI@NTU.EDU.SG|0|
+GSLIN|Lin Guosheng|gslin@ntu.edu.sg|0|
+SHANGWEILIN|Lin Shang-Wei|SHANG-WEI.LIN@NTU.EDU.SG|0|
+WSLIN|Lin Weisi|WSLIN@NTU.EDU.SG|0|
+LIU|Liu Weichen|LIU@NTU.EDU.SG|0|
+YANGLIU|Liu Yang|YANGLIU@NTU.EDU.SG|0|
+ZIWEILIU|Liu Ziwei|ziwei.liu@ntu.edu.sg|0|
+ANHTUANLUU|Luu Anh Tuan|anhtuan.luu@ntu.edu.sg|0|
+YRLOKE|Loke Yuan Ren|YRLOKE@NTU.EDU.SG|0|
+CLONG|Long Cheng|C.LONG@NTU.EDU.SG|0|
+SHIJIANLU|Lu Shijian|SHIJIAN.LU@NTU.EDU.SG|0|
+JUNLUO|Luo Jun|JUNLUO@NTU.EDU.SG|0|
+SIQIANGLUO|Luo Siqiang|siqiang.luo@ntu.edu.sg|0|
+MSABRY|Mohamed M. Sabry|MSABRY@NTU.EDU.SG|0|
+AWKNG|Ng Wee Keong|AWKNG@ntu.edu.sg|0|
+HLOH|Oh Hong Lye|HLOH@NTU.EDU.SG|0|
+ASYSONG|Ong Yew Soon|ASYSOng@ntu.edu.sg|0|
+OFERNANDO|Owen Noel Newton Fernando|OFERNANDO@NTU.EDU.SG|0|
+SINNOPAN|Pan, Sinno Jialin|SINNOPAN@NTU.EDU.SG|0|
+MKMQIAN|Qian Kemao|MKMQIAN@NTU.EDU.SG|0|
+ASHCQUEK|Quek Hiok Chai|ASHCQUEK@ntu.edu.sg|0|
+ASJAGATH|Rajapakse Jagath Chandana|ASJAGATH@NTU.EDU.SG|0|
+ASHSSEAH|Seah Hock Soon|ASHSSEAH@ntu.edu.sg|0|
+ZQSHEN|Shen Zhiqi|ZQSHEN@NTU.EDU.SG|0|
+SMITHA|Smitha K G|SMITHA@NTU.EDU.SG|0|
+ASSOURAV|Sourav Saha Bhowmick|ASSOURAV@NTU.EDU.SG|0|
+AXSUN|Sun Aixin|AXSUN@NTU.EDU.SG|0|
+CHEEWEITAN|Tan Chee Wei|cheewei.tan@ntu.edu.sg|0|
+TANRUI|Tan Rui|TANRUI@NTU.EDU.SG|0|
+ASXYTANG|Tang Xueyan|ASXYTANG@NTU.EDU.SG|0|
+KIANBOONTAY|Tay Kian Boon|kianboon.tay@ntu.edu.sg|0|
+ASTSRIKAN|Thambipillai Srikanthan|ASTSRIKAN@ntu.edu.sg|0|
+VIDYASUDARSHAN|Vidya Sudarshan|vidya.sudarshan@ntu.edu.sg|0|
+ASCHVUN|Vun Chan Hua, Nicholas|ASCHVUN@ntu.edu.sg|0|
+YGWEN|Wen Yonggang|YGWEN@ntu.edu.sg|0|
+ASCKYEO|Yeo Chai Kiat|ASCKYEO@ntu.edu.sg|0|
+HANYU|Yu Han|HAN.YU@NTU.EDU.SG|0|
+HANWANGZHANG|Zhang Hanwang|HANWANGZHANG@NTU.EDU.SG|0|
+ZHANGJ|Zhang Jie|ZHANGJ@NTU.EDU.SG|0|
+TIANWEIZHANG|Zhang Tianwei|tianwei.zhang@ntu.edu.sg|0|
+JUNZHAO|Zhao Jun|JUNZHAO@NTU.EDU.SG|0|
+ASJMZHENG|Zheng Jianmin|ASJMZHENG@NTU.EDU.SG|0|
